@@ -1,0 +1,29 @@
+{
+  "name": "fitrace-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for FitRaceApp - a fitness and racing competition app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.0.11",
+    "axios": "^0.26.0",
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-reanimated": "^2.3.1",
+    "react-native-safe-area-context": "^3.3.0",
+    "react-native-screens": "^3.9.0",
+    "react-native-web": "0.17.1"
+  }
+}
