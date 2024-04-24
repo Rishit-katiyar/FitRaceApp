@@ -229,7 +229,7 @@ FitRaceApp/
   npm install
   ```
 
-- **Expo server not starting**: If the Expo server fails to start, check if there are any conflicting processes running on port 19000 and kill them:
+- **Expo server not starting**: If the Expo server fails to start, check if there are any conflicting processes running on port 19000 and close them:
   ```bash
   sudo lsof -i :19000
   kill -9 <PID>
